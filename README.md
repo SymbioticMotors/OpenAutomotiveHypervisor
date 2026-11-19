@@ -1,2 +1,5 @@
 # OpenAutomotiveHypervisor
-Making the A.I. &amp; self-driving Brain of a car open source and community development driven!  # Inspire. - [](https://youtu.be/awjlMCCdqXw)
+Making the A.I. & self-driving Brain of a car open source and community development driven!  
+
+# Inspire.
+- [The Dark Side of China’s Perfect Cars](https://youtu.be/awjlMCCdqXw) by: @Mrwhosetheboss
